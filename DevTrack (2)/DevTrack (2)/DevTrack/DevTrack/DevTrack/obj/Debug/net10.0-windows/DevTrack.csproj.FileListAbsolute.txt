@@ -1,0 +1,65 @@
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\bin\Debug\net10.0-windows\DevTrack.exe
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\bin\Debug\net10.0-windows\DevTrack.deps.json
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\bin\Debug\net10.0-windows\DevTrack.runtimeconfig.json
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\bin\Debug\net10.0-windows\DevTrack.dll
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\bin\Debug\net10.0-windows\DevTrack.pdb
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.Form1.resources
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.Proyectos.resources
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.Registro_proyectos.resources
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.csproj.GenerateResource.cache
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.AssemblyInfoInputs.cache
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.AssemblyInfo.cs
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.csproj.CoreCompileInputs.cache
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.dll
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\obj\Debug\net10.0-windows\refint\DevTrack.dll
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.pdb
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.genruntimeconfig.cache
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\obj\Debug\net10.0-windows\ref\DevTrack.dll
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.csproj.Up2Date
+C:\Users\cindy\OneDrive\Escritorio\Tayler\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.Consulta_Proyectos.resources
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\bin\Debug\net10.0-windows\DevTrack.exe
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\bin\Debug\net10.0-windows\DevTrack.deps.json
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\bin\Debug\net10.0-windows\DevTrack.runtimeconfig.json
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\bin\Debug\net10.0-windows\DevTrack.dll
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\bin\Debug\net10.0-windows\DevTrack.pdb
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.Consulta_Proyectos.resources
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.Form1.resources
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.FrmTareas.resources
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.Proyectos.resources
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.Registro_proyectos.resources
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.csproj.GenerateResource.cache
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.AssemblyInfoInputs.cache
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.AssemblyInfo.cs
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.csproj.CoreCompileInputs.cache
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.dll
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\refint\DevTrack.dll
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.pdb
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.genruntimeconfig.cache
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\ref\DevTrack.dll
+C:\Users\gjrm6\OneDrive\Desktop\archivos\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.csproj.Up2Date
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\bin\Debug\net10.0-windows\DevTrack.exe
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\bin\Debug\net10.0-windows\DevTrack.deps.json
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\bin\Debug\net10.0-windows\DevTrack.runtimeconfig.json
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\bin\Debug\net10.0-windows\DevTrack.dll
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\bin\Debug\net10.0-windows\DevTrack.pdb
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.Consulta_Proyectos.resources
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.Form1.resources
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.FrmTareas.resources
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.Proyectos.resources
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.Registro_proyectos.resources
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.csproj.GenerateResource.cache
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.AssemblyInfoInputs.cache
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.AssemblyInfo.cs
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.csproj.CoreCompileInputs.cache
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.dll
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\refint\DevTrack.dll
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.pdb
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.genruntimeconfig.cache
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\ref\DevTrack.dll
+C:\Users\cindy\OneDrive\Escritorio\Tayler\Prueba\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.csproj.Up2Date
+C:\Users\gjrm6\OneDrive\Desktop\progra3\DevTrack (2)\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.dll
+C:\Users\gjrm6\OneDrive\Desktop\progra3\DevTrack (2)\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\refint\DevTrack.dll
+C:\Users\gjrm6\OneDrive\Desktop\progra3\DevTrack (2)\DevTrack (2)\DevTrack\DevTrack\DevTrack\obj\Debug\net10.0-windows\DevTrack.pdb
